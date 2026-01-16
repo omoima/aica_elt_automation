@@ -1,0 +1,5 @@
+apache-airflow
+pandas
+sqlalchemy
+requests
+pendulum
